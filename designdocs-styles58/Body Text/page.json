@@ -44,6 +44,7 @@
       "id": "11797045-93D5-4BDA-BF4E-33857F04A6E9"
     }
   ],
+  "maintainScrollPosition": false,
   "name": "Body Text",
   "nameIsFixed": true,
   "resizingConstraint": 63,

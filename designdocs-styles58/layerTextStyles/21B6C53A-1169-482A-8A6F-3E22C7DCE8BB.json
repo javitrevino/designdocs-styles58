@@ -57,7 +57,7 @@
           "red": 0.5921568627
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Semibold",
             "size": 16

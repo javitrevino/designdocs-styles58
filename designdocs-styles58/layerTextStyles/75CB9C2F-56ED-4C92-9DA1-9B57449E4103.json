@@ -57,7 +57,7 @@
           "red": 0.1098039216
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Regular",
             "size": 14

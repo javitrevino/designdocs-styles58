@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Regular",
               "size": 16
@@ -65,6 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "lorem text copy 10",
   "nameIsFixed": true,
   "resizingConstraint": 11,
@@ -126,7 +127,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Regular",
             "size": 16

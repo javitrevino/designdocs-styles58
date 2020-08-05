@@ -14,7 +14,7 @@
             "red": 0.1098039215686274
           },
           "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
+            "_class": "UIFontDescriptor",
             "attributes": {
               "name": "SourceSansPro-Bold",
               "size": 20
@@ -83,6 +83,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
+  "maintainScrollPosition": false,
   "name": "🏷 Title Copy 2",
   "nameIsFixed": true,
   "resizingConstraint": 11,
@@ -145,7 +146,7 @@
           "red": 0.1098039215686274
         },
         "MSAttributedStringFontAttribute": {
-          "_class": "fontDescriptor",
+          "_class": "UIFontDescriptor",
           "attributes": {
             "name": "SourceSansPro-Bold",
             "size": 20
